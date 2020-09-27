@@ -1,2 +1,2 @@
 # ElasticSearch
-Archivo PDF con todo lo realizado para completar la practica Elasticsearch.
+Leer el archivo elasticsearch.pdf con todo lo realizado para completar la practica Elasticsearch.
